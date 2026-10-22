@@ -8,7 +8,7 @@ Za verziju igre **2.4.1.0** (EU).
 
 ## Instalacija
 
-1. Skini zadnju verziju (`stickers.stipesticker_X.Y.Z.wotmod`) sa stranice [Releases](https://github.com/Bubl3Gum/world-of-tanks-chat-stickers/releases/latest).
+1. Skini zadnju verziju: **[stickers.stipesticker_0.8.4.wotmod](https://github.com/Bubl3Gum/world-of-tanks-chat-stickers/raw/main/download/stickers.stipesticker_0.8.4.wotmod)** (sve verzije su u mapi [`download`](download)).
 2. Stavi je u `World_of_Tanks_EU\mods\2.4.1.0\`.
 3. Ako imaš stariju verziju StipeStickera, obriši je iz iste mape.
 4. Pokreni igru.
