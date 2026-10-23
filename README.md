@@ -47,4 +47,9 @@ Od verzije 0.8.6 brojevi su promijenjeni, pa svi s kojima igraš trebaju 0.8.6 d
 
 ## Updateovi
 
-Kad izađe nova verzija, u garaži ćeš dobiti obavijest s linkom za skidanje. Mod ništa ne skida ni ne instalira sam, novu verziju skineš i zamijeniš ručno.
+Svaki put kad uđeš u igru, u popisu obavijesti u garaži stoji StipeStickers obavijest s tvojom verzijom:
+
+- **Najnovija verzija** (zeleno) – imaš zadnju verziju.
+- **Dostupna novija verzija** (narančasto) – klikni **DOWNLOAD - vX.Y.Z** i otvorit će ti se ta verzija ovdje na GitHubu.
+
+Mod ništa ne skida ni ne instalira sam, novu verziju skineš i zamijeniš ručno.
