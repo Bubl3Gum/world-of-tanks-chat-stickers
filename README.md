@@ -6,6 +6,12 @@ Works in battle chat, platoon chat, clan chat and private messages.
 
 For game version **2.4.1.0** (EU).
 
+## Screenshots
+
+| Sticker wheel (hold V in battle) | Stickers in battle chat |
+|---|---|
+| <img src="screenshots/wheel.jpg" width="420"> | <img src="screenshots/chat.jpg" width="220"> |
+
 ## Installation
 
 1. Download the latest version (`stickers.stipesticker_X.Y.Z.wotmod`) from **[Releases](https://github.com/Bubl3Gum/world-of-tanks-chat-stickers/releases/latest)**.
