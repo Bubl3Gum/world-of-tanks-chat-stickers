@@ -50,6 +50,10 @@ Od verzije 0.8.6 brojevi su promijenjeni, pa svi s kojima igraš trebaju 0.8.6 d
 Svaki put kad uđeš u igru, u popisu obavijesti u garaži stoji StipeStickers obavijest s tvojom verzijom:
 
 - **Najnovija verzija** (zeleno) – imaš zadnju verziju.
-- **Dostupna novija verzija** (narančasto) – klikni **DOWNLOAD - vX.Y.Z** i otvorit će ti se ta verzija ovdje na GitHubu.
+- **Dostupna novija verzija** (narančasto) – izašla je nova verzija.
+- Kružić pored verzije ponovo provjerava ima li nova verzija.
+- Gumb **PRIKAŽI** otvara StipeStickers prozor: instalirana verzija, status, što je novo i gumb **DOWNLOAD** koji otvara novu verziju ovdje na GitHubu. Prozor se može pomicati povlačenjem za gornju traku.
+
+Dok nemaš najnoviju verziju, prozor se sam otvori svaki put kad uđeš u igru.
 
 Mod ništa ne skida ni ne instalira sam, novu verziju skineš i zamijeniš ručno.
