@@ -1,27 +1,27 @@
 # StipeSticker
 
-Stickeri u World of Tanks chatu. Napišeš kod stickera u chat, a igrači koji također imaju StipeSticker vide sliku umjesto koda.
+Stickers in World of Tanks chat. Type a sticker code in chat, and players who also have StipeSticker see the picture instead of the code.
 
-Radi u chatu u bitci, u vodu (platoon), u klanskom chatu i u privatnim porukama.
+Works in battle chat, platoon chat, clan chat and private messages.
 
-Za verziju igre **2.4.1.0** (EU).
+For game version **2.4.1.0** (EU).
 
-## Instalacija
+## Installation
 
-1. Skini zadnju verziju (`stickers.stipesticker_X.Y.Z.wotmod`) sa stranice **[Releases](https://github.com/Bubl3Gum/world-of-tanks-chat-stickers/releases/latest)**.
-2. Stavi je u `World_of_Tanks_EU\mods\2.4.1.0\`.
-3. Ako imaš stariju verziju StipeStickera, obriši je iz iste mape.
-4. Pokreni igru.
+1. Download the latest version (`stickers.stipesticker_X.Y.Z.wotmod`) from **[Releases](https://github.com/Bubl3Gum/world-of-tanks-chat-stickers/releases/latest)**.
+2. Put it in `World_of_Tanks_EU\mods\2.4.1.0\`.
+3. If you have an older version of StipeSticker, delete it from the same folder.
+4. Start the game.
 
-## Korištenje
+## Usage
 
-- U chat napiši kod stickera (`:stk7:`), kraticu (`S7`) ili ime (`/ok`).
-- U bitci drži **V** za kotačić sa stickerima i odaberi jedan (dvije stranice). Šalje se u kanal koji si odabrao Tabom (tim ili vod).
-- Igrači bez moda vide samo kod (npr. `:stk3:`).
+- Type a sticker code (`:stk7:`), its shortcut (`S7`) or its name (`/ok`) in chat.
+- In battle, hold **V** for the sticker wheel and pick one (two pages). It is sent to the channel you selected with Tab (team or platoon).
+- Players without the mod only see the code (e.g. `:stk3:`).
 
-## Stickeri
+## Stickers
 
-| # | Slika | Ime | Kod | Kratica | Ime u chatu |
+| # | Picture | Name | Code | Shortcut | Name in chat |
 |---|---|-----|-----|---------|-------------|
 | 1 | <img src="stickers/stk1.png" height="80"> | stipe | `:stk1:` | `S1` | `/stipe` |
 | 2 | <img src="stickers/stk2.png" height="80"> | zidane | `:stk2:` | `S2` | `/zidane` |
@@ -43,17 +43,17 @@ Za verziju igre **2.4.1.0** (EU).
 | 18 | <img src="stickers/stk18.png" height="80"> | kasnim | `:stk18:` | `S18` | `/kasnim` |
 | 19 | <img src="stickers/stk19.png" height="80"> | pjebiga | `:stk19:` | `S19` | `/pjebiga` |
 
-Od verzije 0.8.6 brojevi su promijenjeni, pa svi s kojima igraš trebaju 0.8.6 da bi vidjeli iste stickere.
+Since version 0.8.6 the sticker numbers have changed, so everyone you play with needs 0.8.6 or newer to see the same stickers.
 
-## Updateovi
+## Updates
 
-Svaki put kad uđeš u igru, u popisu obavijesti u garaži stoji StipeStickers obavijest s tvojom verzijom:
+Every time you log in, the garage notification list has a StipeStickers notice with your version:
 
-- **Najnovija verzija** (zeleno) – imaš zadnju verziju.
-- **Dostupna novija verzija** (narančasto) – izašla je nova verzija.
-- Kružić pored verzije ponovo provjerava ima li nova verzija.
-- Gumb **PRIKAŽI** otvara StipeStickers prozor: instalirana verzija, status, što je novo i gumb **DOWNLOAD** koji otvara novu verziju ovdje na GitHubu. Prozor se može pomicati povlačenjem za gornju traku.
+- **Up to date** (green) – you have the latest version.
+- **New version available** (orange) – a new version is out.
+- The small circle next to the version checks again for a new version.
+- The **SHOW** button opens the StipeStickers window: installed version, status, what's new, and a **DOWNLOAD** button that opens the new version here on GitHub. The window can be moved by dragging its title bar.
 
-Dok nemaš najnoviju verziju, prozor se sam otvori svaki put kad uđeš u igru.
+While you don't have the latest version, the window opens by itself every time you log in.
 
-Mod ništa ne skida ni ne instalira sam, novu verziju skineš i zamijeniš ručno.
+The mod never downloads or installs anything by itself: you download the new version and replace the old one yourself.
