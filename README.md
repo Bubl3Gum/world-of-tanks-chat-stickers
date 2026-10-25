@@ -23,7 +23,7 @@ For game version **2.4.1.0** (EU).
 
 - Type a sticker code (`:stk7:`), its shortcut (`S7`) or its name (`/ok`) in chat.
 - In battle, hold **V** for the sticker wheel and pick one (two pages). It is sent to the channel you selected with Tab (team or platoon).
-- Players without the mod only see the code (e.g. `:stk3:`).
+- Stickers are sent by name, so players without the mod see the name (e.g. `/mbape`).
 
 ## Stickers
 
@@ -42,14 +42,14 @@ For game version **2.4.1.0** (EU).
 | 11 | <img src="stickers/stk11.png" height="80"> | sta | `:stk11:` | `S11` | `/sta` |
 | 12 | <img src="stickers/stk12.png" height="80"> | bogtejeba | `:stk12:` | `S12` | `/bogtejeba` |
 | 13 | <img src="stickers/stk13.png" height="80"> | zalazak | `:stk13:` | `S13` | `/zalazak` |
-| 14 | <img src="stickers/stk14.png" height="80"> | kurcina | `:stk14:` | `S14` | `/kurcina` |
+| 14 | <img src="stickers/stk14.png" height="80"> | kita | `:stk14:` | `S14` | `/kita` |
 | 15 | <img src="stickers/stk15.png" height="80"> | dvatuku | `:stk15:` | `S15` | `/dvatuku` |
 | 16 | <img src="stickers/stk16.png" height="80"> | stai | `:stk16:` | `S16` | `/stai` |
 | 17 | <img src="stickers/stk17.png" height="80"> | znamo | `:stk17:` | `S17` | `/znamo` |
 | 18 | <img src="stickers/stk18.png" height="80"> | kasnim | `:stk18:` | `S18` | `/kasnim` |
-| 19 | <img src="stickers/stk19.png" height="80"> | pjebiga | `:stk19:` | `S19` | `/pjebiga` |
+| 19 | <img src="stickers/stk19.png" height="80"> | jbg | `:stk19:` | `S19` | `/jbg` |
 
-Since version 0.8.6 the sticker numbers have changed, so everyone you play with needs 0.8.6 or newer to see the same stickers.
+Since version 0.9.0 stickers are sent by name (`/zidane`) instead of by number, so everyone you play with needs 0.9.0 or newer to see your stickers. The old names `/kurcina` and `/pjebiga` still work.
 
 ## Updates
 
