@@ -6,7 +6,7 @@
 
 [![Download](https://img.shields.io/github/v/release/Bubl3Gum/world-of-tanks-chat-stickers?label=download&style=for-the-badge&color=e08a1e)](https://github.com/Bubl3Gum/world-of-tanks-chat-stickers/releases/latest)
 
-<img src="screenshots/wheel.jpg" height="400"> <img src="screenshots/chat.jpg" height="400">
+<img src="screenshots/chat.jpg" height="400"> <img src="screenshots/wheel.jpg" height="400">
 
 </div>
 
