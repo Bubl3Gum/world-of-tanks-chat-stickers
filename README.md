@@ -12,6 +12,8 @@
 
 Type a sticker name in chat and everyone with StipeSticker sees the picture. Works in battle, platoon, clan and private chat. Players without the mod only see a short code like `:stk2:`.
 
+<div align="center"><img src="screenshots/garage_chat.jpg" width="640"></div>
+
 ## Installation
 
 1. Download the `.wotmod` from **[Releases](https://github.com/Bubl3Gum/world-of-tanks-chat-stickers/releases/latest)**
