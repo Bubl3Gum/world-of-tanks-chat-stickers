@@ -50,4 +50,4 @@ Sticker icon next to the gear in the garage (or the mods menu).
 
 - Everyone needs **1.0 or newer** to see the animated stickers
 - Works with XVM and Aslain's modpack; after a game update wait for a new StipeSticker version
-- New versions are announced in the garage – the mod never downloads anything on its own
+- New versions and duplicate installs are shown in the garage – the mod never downloads anything on its own
