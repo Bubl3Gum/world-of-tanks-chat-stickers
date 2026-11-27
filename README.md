@@ -16,7 +16,7 @@ Type a sticker name in chat and everyone with StipeSticker sees the picture – 
 
 ## Installation
 
-Download the `.wotmod` from **[Releases](https://github.com/Bubl3Gum/world-of-tanks-chat-stickers/releases/latest)**, put it in `World_of_Tanks_EU\mods\2.4.1.1\` and delete the older version. Nothing else is needed.
+Download the `.wotmod` from **[Releases](https://github.com/Bubl3Gum/world-of-tanks-chat-stickers/releases/latest)**, put it in `World_of_Tanks_EU\mods\2.4.2.0\` and delete the older version. Nothing else is needed.
 
 ## Usage
 
@@ -34,7 +34,8 @@ Sticker icon next to the gear in the garage (or the mods menu).
 ### Animated
 
 <table>
-<tr><td align="center"><img src="stickers/stk20.gif" height="96"><br><code>/deal</code></td><td align="center"><img src="stickers/stk21.gif" height="96"><br><code>/brt</code></td><td align="center"><img src="stickers/stk22.gif" height="96"><br><code>/bravo</code></td></tr>
+<tr><td align="center"><img src="stickers/stk20.gif" height="96"><br><code>/deal</code></td><td align="center"><img src="stickers/stk21.gif" height="96"><br><code>/brt</code></td><td align="center"><img src="stickers/stk22.gif" height="96"><br><code>/bravo</code></td><td align="center"><img src="stickers/stk26.gif" height="96"><br><code>/zid</code></td></tr>
+<tr><td align="center"><img src="stickers/stk27.gif" height="96"><br><code>/svee1</code></td><td align="center"><img src="stickers/stk28.gif" height="96"><br><code>/pikac</code></td><td align="center"><img src="stickers/stk29.gif" height="96"><br><code>/svee2</code></td></tr>
 </table>
 
 ### Classic
@@ -43,11 +44,13 @@ Sticker icon next to the gear in the garage (or the mods menu).
 <tr><td align="center"><img src="stickers/stk1.png" height="64"><br><code>/stipe</code></td><td align="center"><img src="stickers/stk2.png" height="64"><br><code>/zidane</code></td><td align="center"><img src="stickers/stk3.png" height="64"><br><code>/mbape</code></td><td align="center"><img src="stickers/stk4.png" height="64"><br><code>/ja</code></td><td align="center"><img src="stickers/stk5.png" height="64"><br><code>/uff</code></td></tr>
 <tr><td align="center"><img src="stickers/stk6.png" height="64"><br><code>/gas</code></td><td align="center"><img src="stickers/stk7.png" height="64"><br><code>/ok</code></td><td align="center"><img src="stickers/stk8.png" height="64"><br><code>/boli</code></td><td align="center"><img src="stickers/stk9.png" height="64"><br><code>/arty</code></td><td align="center"><img src="stickers/stk10.png" height="64"><br><code>/au</code></td></tr>
 <tr><td align="center"><img src="stickers/stk11.png" height="64"><br><code>/sta</code></td><td align="center"><img src="stickers/stk12.png" height="64"><br><code>/bogtejeba</code></td><td align="center"><img src="stickers/stk13.png" height="64"><br><code>/zalazak</code></td><td align="center"><img src="stickers/stk14.png" height="64"><br><code>/kita</code></td><td align="center"><img src="stickers/stk15.png" height="64"><br><code>/dvatuku</code></td></tr>
-<tr><td align="center"><img src="stickers/stk16.png" height="64"><br><code>/stai</code></td><td align="center"><img src="stickers/stk17.png" height="64"><br><code>/znamo</code></td><td align="center"><img src="stickers/stk18.png" height="64"><br><code>/kasnim</code></td><td align="center"><img src="stickers/stk19.png" height="64"><br><code>/jbg</code></td></tr>
+<tr><td align="center"><img src="stickers/stk16.png" height="64"><br><code>/stai</code></td><td align="center"><img src="stickers/stk17.png" height="64"><br><code>/znamo</code></td><td align="center"><img src="stickers/stk18.png" height="64"><br><code>/kasnim</code></td><td align="center"><img src="stickers/stk19.png" height="64"><br><code>/jbg</code></td><td align="center"><img src="stickers/stk23.png" height="64"><br><code>/baba</code></td></tr>
+<tr><td align="center"><img src="stickers/stk24.png" height="64"><br><code>/abogtejeba</code></td><td align="center"><img src="stickers/stk25.png" height="64"><br><code>/masa</code></td></tr>
 </table>
 
 ## Notes
 
 - Everyone needs **1.0 or newer** to see the animated stickers
+- Stickers added in 1.3.6 (`/baba`, `/abogtejeba`, `/masa`, `/zid`, `/svee1`, `/pikac`, `/svee2`) need **1.3.6 or newer**
 - Works with XVM and Aslain's modpack; after a game update wait for a new StipeSticker version
 - New versions and duplicate installs are shown in the garage – the mod never downloads anything on its own
